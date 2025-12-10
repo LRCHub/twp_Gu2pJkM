@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "詩書きとコーヒー",
+  "base_artist": "ヨルシカ",
+  "createdAt": "2025-12-10T02:33:25.783450Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "詩書きとコーヒー",
+      "artist": "Yorushika",
+      "has_synced": true,
+      "path": "select/01_詩書きとコーヒー_Yorushika.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "詩書きとコーヒー",
+      "artist": "ヨルシカ",
+      "has_synced": true,
+      "path": "select/02_詩書きとコーヒー_ヨルシカ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "詩書きとコーヒー",
+      "artist": "ヨルシカ (Yorushika、n-buna ナブナ、suis)",
+      "has_synced": true,
+      "path": "select/03_詩書きとコーヒー_ヨルシカ_(Yorushika、n-buna_ナブナ、suis).lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "詩書きとコーヒー; shigaki to coffee",
+      "artist": "Yorushika",
+      "has_synced": true,
+      "path": "select/04_詩書きとコーヒー;_shigaki_to_coffee_Yorushika.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "詩書きとコーヒー",
+      "artist": "ヨルシカ",
+      "has_synced": false,
+      "path": "select/pl_01_詩書きとコーヒー_ヨルシカ.txt"
+    }
+  ]
+}
